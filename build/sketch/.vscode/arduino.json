@@ -1,0 +1,7 @@
+#line 1 "C:\\Users\\owen.lee\\Desktop\\Owen\\01.Project\\Small Projects\\RoboticArm\\Software\\RoboticArmControl\\.vscode\\arduino.json"
+{
+    "sketch": "RoboticArmControl.ino",
+    "output": "build",
+    "port": "COM3",
+    "board": "arduino:avr:uno"
+}
